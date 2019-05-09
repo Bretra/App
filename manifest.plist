@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mud.specialvideo</string>
+				<string>com.huangjia.hj</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>小黄人</string>
+				<string>皇家棋牌</string>
 			</dict>
 		</dict>
 	</array>
